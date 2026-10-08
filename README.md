@@ -14,4 +14,4 @@ assets/css/styles.css estilos compilados
 assets/js/site.js     mejoras opcionales
 ```
 
-Tema: **Póster**. Para publicarla basta servir esta carpeta como sitio estático (GitHub Pages, Vercel, Netlify…).
+Tema: **Noche**. Para publicarla basta servir esta carpeta como sitio estático (GitHub Pages, Vercel, Netlify…).

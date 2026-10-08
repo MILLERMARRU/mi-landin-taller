@@ -2,9 +2,9 @@
 
 ## Fuentes
 
-- Boldonse — SIL Open Font License 1.1, vía Fontsource (@fontsource/boldonse).
-- Inter — SIL Open Font License 1.1, vía Fontsource (@fontsource-variable/inter).
-- DM Mono — SIL Open Font License 1.1, vía Fontsource (@fontsource/dm-mono).
+- Bricolage Grotesque — SIL Open Font License 1.1, vía Fontsource (@fontsource-variable/bricolage-grotesque).
+- Geist — SIL Open Font License 1.1, vía Fontsource (@fontsource-variable/geist).
+- Geist Mono — SIL Open Font License 1.1, vía Fontsource (@fontsource-variable/geist-mono).
 
 ## Imágenes
 
