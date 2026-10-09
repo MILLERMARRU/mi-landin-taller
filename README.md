@@ -9,6 +9,8 @@ Landing construida en el **Taller de Git y GitHub**: cada sección se eligió de
 ```
 index.html            esqueleto de la página
 sections/hero.html    Hero
+sections/about.html   Sobre mí
+sections/skills.html  Habilidades
 assets/css/theme.css  tema (colores y fuentes)
 assets/css/styles.css estilos compilados
 assets/js/site.js     mejoras opcionales
