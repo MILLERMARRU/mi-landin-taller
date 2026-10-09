@@ -13,12 +13,10 @@ sections/about.html   Sobre mí
 sections/skills.html  Habilidades
 sections/projects.htmlProyectos
 sections/certificates.htmlCertificados
+sections/contact.html Contacto
 assets/css/theme.css  tema (colores y fuentes)
 assets/css/styles.css estilos compilados
 assets/js/site.js     mejoras opcionales
 ```
 
 Tema: **Noche**. Para publicarla basta servir esta carpeta como sitio estático (GitHub Pages, Vercel, Netlify…).
-
-
-hola mundillo
