@@ -12,6 +12,7 @@ sections/hero.html    Hero
 sections/about.html   Sobre mí
 sections/skills.html  Habilidades
 sections/projects.htmlProyectos
+sections/certificates.htmlCertificados
 assets/css/theme.css  tema (colores y fuentes)
 assets/css/styles.css estilos compilados
 assets/js/site.js     mejoras opcionales
