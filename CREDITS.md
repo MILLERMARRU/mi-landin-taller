@@ -8,7 +8,7 @@
 
 ## Imágenes
 
-- 2 imágenes aportadas por el autor del sitio.
+- 3 imágenes aportadas por el autor del sitio.
 
 ## Logos
 
